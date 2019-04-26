@@ -1,2 +1,2 @@
-# Car-recogition
+# Car-classification
 Machine learning homework
