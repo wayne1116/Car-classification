@@ -11,7 +11,7 @@
 
 ---
 
-# Training Result
+***Training Result***
 
 **●Accuracy**
 ![image](https://github.com/wayne1116/Car-classification/blob/master/picture_result/train_acc.png)
@@ -20,7 +20,7 @@
 
 ---
 
-# Testing Result 
+***Testing Result*** 
 
 **●Not using pretrained model**
 
