@@ -13,6 +13,6 @@
 
 ***Result***
 
-***Not using pretrained model***
+**●Not using pretrained model**
 
-***using pretrained model***
+**●using pretrained model**
