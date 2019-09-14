@@ -39,4 +39,4 @@
 
 ---
 
-***Final report(implement in Chinese):*** https://github.com/wayne1116/Car-classification/blob/master/report.pdf 
+***●Final report(implement in Chinese):*** https://github.com/wayne1116/Car-classification/blob/master/report.pdf 
