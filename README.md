@@ -11,8 +11,14 @@
 
 ---
 
-***Result***
+***Testing Result***
 
 **●Not using pretrained model**
 
+epoch: 30, Accuracy: 0.29, Loss: 4.4324 
+
 **●using pretrained model**
+
+epoch: 30, Accuracy: 0.91, Loss: 0.3578
+
+
