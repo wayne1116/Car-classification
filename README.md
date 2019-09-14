@@ -36,3 +36,7 @@
 ![image](https://github.com/wayne1116/Car-classification/blob/master/picture_result/test_acc.png)
 **●Loss**
 ![image](https://github.com/wayne1116/Car-classification/blob/master/picture_result/test_loss.png)
+
+---
+
+***final report(implement in Chinese):*** 
