@@ -11,6 +11,14 @@
 
 ---
 
+***Training Result***
+
+**●Accuracy**
+
+**●Loss**
+
+---
+
 ***Testing Result***
 
 **●Not using pretrained model**
@@ -23,3 +31,6 @@ epoch: 30, Accuracy: 0.29, Loss: 4.4324
 epoch: 30, Accuracy: 0.91, Loss: 0.3578
 ![image](https://github.com/wayne1116/Car-classification/blob/master/picture_result/pretained.png)
 
+**●Accuracy**
+
+**●Loss**
